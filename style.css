@@ -1,0 +1,53 @@
+<style type="text/css">
+h1 {
+    color: black; 
+}
+h2 { 
+    color: black;
+}
+h1, h2 {
+  font-size: 24px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 16px;    
+  line-height: 2;
+  letter-spacing: 1px;
+}
+html { 
+    background-image: URL: https://github.com/vbmelo/brasilplas/blob/master/25f.png (brasilplas/25f.png)    
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: dimgray;
+  padding: 0 20px 20px 20px;
+}
+h1 {
+  margin: 0;
+  padding: 20px 0;    
+  color: yellow;
+  text-shadow: 3px 3px 1px gray;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+p{
+    width: 500px;
+    margin: 0 auto;
+    background-color: gray;
+   padding: 0 20px 20px 20px
+}
+
+
+
+
+
+
+
+
+
+
+</style>
