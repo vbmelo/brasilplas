@@ -16,7 +16,7 @@ p, li {
   letter-spacing: 1px;
 }
 html { 
-    background-image: url("https://cdn1.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/google-2356343_1920.jpg") no-repeat;   
+    background-color: dimgray;   
 }
 body {
   width: 600px;
